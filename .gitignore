@@ -3,4 +3,4 @@
 #但跟踪所有的lib.a,即便你在前面忽略了.a文件
 !lib.a
 #忽略所有build目录下
-#build/
+build/
