@@ -8,6 +8,6 @@ var a = "123";
 var b = "liupeng";
 var c ="xyz";
 var d = 123;
-var e="abc"
+console.log("problem solved");
 
 
