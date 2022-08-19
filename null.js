@@ -9,5 +9,5 @@ var b = "liupeng";
 var c ="xyz";
 var d = 123;
 var e="abc"
-
+//分离头
 
